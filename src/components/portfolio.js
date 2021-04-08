@@ -49,7 +49,7 @@ class Portfolio extends React.Component {
                                         <div className="name pb-3">Angular11 + Firebase - Calendar organizer application</div>
                                     </div>
                                     <div className="media-icons">
-                                        <a href="https://github.com/GalZisin/angular11-organizer"><i className="fab fa-github"></i></a>
+                                        <a href="https://github.com/GalZisin/angular11-organizer" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
                                     </div>
                                     <a href="https://angular11-organizer-gz.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
                                 </div>
@@ -63,9 +63,9 @@ class Portfolio extends React.Component {
                                         <div className="name pb-4">React.js - portfolio site</div>
                                     </div>
                                     <div className="media-icons">
-                                        <a href="/#"><i className="fab fa-github"></i></a>
+                                        <a href="https://github.com/GalZisin/Gal-Zisin-portfolio" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
                                     </div>
-                                    <a href="/#" className="btn">View Project</a>
+                                    <a href="https://gal-zisin-portfolio.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
                                 </div>
                             </div>
 
