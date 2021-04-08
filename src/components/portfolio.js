@@ -16,9 +16,7 @@ class Portfolio extends React.Component {
                                         <img src="images/Reactjs-crud-application.png" style={{ height: 157 }} alt="" />
                                     </div>
                                     <div className="details">
-
                                         <div className="name pb-1">React.js + Node.js + TypeScript + Redux + mongoDB - CRUD application with login implementaion</div>
-
                                     </div>
                                     <div className="media-icons">
                                         <a href="https://github.com/GalZisin/Todolist-CRUD-app" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
@@ -68,11 +66,7 @@ class Portfolio extends React.Component {
                                     <a href="https://gal-zisin-portfolio.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
                                 </div>
                             </div>
-
                         </div>
-
-
-
                     </div>
                 </div>
             </section >
