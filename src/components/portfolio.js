@@ -35,7 +35,7 @@ class Portfolio extends React.Component {
                                     <div className="media-icons">
                                         <a href="https://github.com/GalZisin/TodoList-React-Typescript" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
                                     </div>
-                                    <a href="https://todolist-react-typescript-gz.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
+                                    <a href="https://todolist-react-typescript.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
                                 </div>
                             </div>
                             <div className="card">
