@@ -17,10 +17,10 @@ class Home extends React.Component {
                             <div className="home-content">
                                 <div className="text-1">Hello, my name is</div>
                                 <div className="text-2">Gal Zisin</div>
-                                <div className="text-3">And I'm a <span>
+                                <div className="text-3">And I'm <span>
                                     <Typed
                                         strings={[
-                                            'Developer', 'Engineer']}
+                                            'a Developer', 'an Engineer']}
                                         typeSpeed={40}
                                         backSpeed={50}
                                         loop

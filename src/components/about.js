@@ -14,10 +14,10 @@ class About extends React.Component {
                             <img src="/images/Gal_Zisin_Photo.jpg" alt="" />
                         </div>
                         <div className="column right">
-                            <div className="text">I'm Gal Zisin and I'm a <span>
+                            <div className="text">I'm Gal Zisin and I'm <span>
                                 <Typed
                                     strings={[
-                                        'Developer', 'Engineer']}
+                                        'a Developer', 'an Engineer']}
                                     typeSpeed={40}
                                     backSpeed={50}
                                     loop
@@ -26,9 +26,9 @@ class About extends React.Component {
                             <p>I have a bachelor degree in electrical engineering. Over the last few years i did endorsment to full stack developer.
                             I specialize in innovative technologies in the field of web development both client and server sides.
                                 </p>
-                            <a download="CV_GAL ZISIN_EN.doc" href="/static/CV_GAL ZISIN_EN.doc">Download CV</a>
+                            <a download="CV_GAL ZISIN_EN.pdf" href="/static/CV_GAL ZISIN_EN.pdf">Download CV</a>
                         </div>
-                        <iframe style={{ display: 'none' }} src="/static/CV_GAL_ZISIN_EN.doc">
+                        <iframe style={{ display: 'none' }} src="/static/CV_GAL_ZISIN_EN.pdf">
                         </iframe>
                     </div>
                 </div>
