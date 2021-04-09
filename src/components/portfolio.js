@@ -21,7 +21,7 @@ class Portfolio extends React.Component {
                                     <div className="media-icons">
                                         <a href="https://github.com/GalZisin/Todolist-CRUD-app" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
                                     </div>
-                                    <a href="https://todolist-app-gz.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
+                                    <a href="https://tasks-crud-app-gz.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
                                 </div>
                             </div>
                             <div className="card">
