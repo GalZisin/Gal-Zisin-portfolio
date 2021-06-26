@@ -20,10 +20,10 @@ class Portfolio extends React.Component {
                                     </div>
                                     <div className="media-icons">
                                         {/* <a href="https://github.com/GalZisin/Todolist-CRUD-app" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a> */}
-                                        <a href="https://github.com/GalZisin/CountDownPage" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
+                                        <a href="https://github.com/GalZisin/Tasks-Table-CRUD-MERN" rel="noreferrer" target="_blank"><i className="fab fa-github"></i></a>
                                     </div>
                                     {/* <a href="https://tasks-crud-app-gz.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a> */}
-                                    <a href="https://countdownpage.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
+                                    <a href="https://tasks-table-mern-ts-gz.herokuapp.com/" className="btn" rel="noreferrer" target="_blank">View Project</a>
                                 </div>
                             </div>
                             <div className="card">
